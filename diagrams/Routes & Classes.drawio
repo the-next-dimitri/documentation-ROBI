@@ -1,1 +1,350 @@
-<mxfile host="Electron" modified="2022-03-18T16:59:47.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/16.5.1 Chrome/96.0.4664.110 Electron/16.0.7 Safari/537.36" etag="8LluyYp9ZtyV8H3Tjms9" version="16.5.1" type="device"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-21T10:56:03.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="PH9K9B1vY0YxDGg-VZS_" version="17.1.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="4788" dy="2385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="kQizsI3hSKFdPFuHRwPH-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="2190" width="830" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="6e47pYrP9tXWvS3FiHHN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-310" y="-490" width="1850" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1980" y="760" width="3440" height="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3480" y="1800" width="1810" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-6" value="&lt;h1&gt;/zoho/get/accounts &lt;font style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;(?type= [json] / csv)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Retourne les comptes dans zoho, au format JSON par défaut, ou en CSV si précisé dans le paramètre &quot;type&quot; de la requète.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="60" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-7" value="&lt;h1&gt;/zoho/get/contacts&amp;nbsp;&lt;font style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;(?type= [json] / csv)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Retourne les contacts dans zoho, au format JSON par défaut, ou en CSV si précisé dans le paramètre &quot;type&quot; de la requète.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="150" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-8" value="&lt;h1&gt;/zoho/get/potentials&amp;nbsp;&lt;font style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;(?type= [json] / csv)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Retourne les potentials dans zoho, au format JSON par défaut, ou en CSV si précisé dans le paramètre &quot;type&quot; de la requète.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="240" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-10" value="&lt;h1&gt;/boond/get/projects&amp;nbsp;&lt;font style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;(?company=[&amp;lt;string&amp;gt;]&amp;nbsp; / *)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Retourne une liste (Tableau JSON) de projets de l&#39;entreprise précisée. Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/p&gt;&lt;p&gt;Dans le cas de company=* dans les params, on renvoie tout.&lt;/p&gt;&lt;p&gt;Exemple de réponse ci-contre.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="660" y="60" width="460" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-13" value="&lt;pre&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="11" y="64" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-14" value="&lt;pre&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="9" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-15" value="&lt;pre&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="243" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-16" value="&lt;pre&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="64" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-20" value="BoondService" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="570" y="640" width="820" height="370" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FyPm2dT_h3c8Z8zYSIa-21" value="getCompaniesByKeywords : pour les recherches" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="8FyPm2dT_h3c8Z8zYSIa-20" vertex="1">
+          <mxGeometry y="40" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-16" value="getProjectsByCompany : Tous les projets de la company" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="8FyPm2dT_h3c8Z8zYSIa-20" vertex="1">
+          <mxGeometry y="80" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-17" value="getOrdersByProject : Toutes les orders liées à un projet" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="8FyPm2dT_h3c8Z8zYSIa-20" vertex="1">
+          <mxGeometry y="120" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-18" value="getInvoicesByOrder  : Toutes mes invoices par OrderId&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="8FyPm2dT_h3c8Z8zYSIa-20" vertex="1">
+          <mxGeometry y="160" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-19" value="getRessourcesByProject : Toutes les ressourcecs par l&#39;ID du projet" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="8FyPm2dT_h3c8Z8zYSIa-20" vertex="1">
+          <mxGeometry y="200" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-20" value="getTimesReportsIdByResourceId : On récupère des ID de time-reports (Time reports : équivalent d&#39;un mois de CRA pour une personne)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="8FyPm2dT_h3c8Z8zYSIa-20" vertex="1">
+          <mxGeometry y="240" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-24" value="getTimeReportById : On récupère un TimeReport par son ID" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="8FyPm2dT_h3c8Z8zYSIa-20" vertex="1">
+          <mxGeometry y="280" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fXzRmh_Mim_D6keiUEfq-0" value="getResourceByResourceId  : Toutes les infos concernant une resources&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="8FyPm2dT_h3c8Z8zYSIa-20" vertex="1">
+          <mxGeometry y="320" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-0" value="BoondModule" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="570" y="460" width="690" height="160" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-1" value="getAllProjects" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-0" vertex="1">
+          <mxGeometry y="40" width="690" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-15" value="getProjectsByName" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-0" vertex="1">
+          <mxGeometry y="80" width="690" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-22" value="getCraByTimeReportId : Création du CRA via" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-0" vertex="1">
+          <mxGeometry y="120" width="690" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-7" value="BoondController" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="570" y="360" width="510" height="80" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-8" value="getProjects" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-7" vertex="1">
+          <mxGeometry y="40" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-25" value="ZohoService" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="760" width="510" height="160" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-41" value="getAccounts" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-25" vertex="1">
+          <mxGeometry y="40" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-42" value="getContacts" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-25" vertex="1">
+          <mxGeometry y="80" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-43" value="getPotentials" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-25" vertex="1">
+          <mxGeometry y="120" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-33" value="ZohoModule" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="540" width="510" height="170" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-45" value="getContacts" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-33" vertex="1">
+          <mxGeometry y="40" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-44" value="getAccounts" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-33" vertex="1">
+          <mxGeometry y="80" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-46" value="getPotentials" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-33" vertex="1">
+          <mxGeometry y="120" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-37" value="ZohoController" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="360" width="510" height="160" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-38" value="getAccounts" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-37" vertex="1">
+          <mxGeometry y="40" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-39" value="getContacts" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-37" vertex="1">
+          <mxGeometry y="80" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-40" value="getPotentials" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-37" vertex="1">
+          <mxGeometry y="120" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-47" value="data-processing.module" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-490" y="360" width="510" height="80" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDspmfhWHFBwSvohRl27-48" value="objectToCSV" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=24;" parent="KDspmfhWHFBwSvohRl27-47" vertex="1">
+          <mxGeometry y="40" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-0" value="&lt;span style=&quot;font-size: 24px ; font-style: italic ; font-weight: 700&quot;&gt;ZohoController&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1469" y="260" width="240" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-1" value="&lt;span style=&quot;font-size: 24px ; font-style: italic ; font-weight: 700&quot;&gt;ZohoModule&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1469" y="600" width="240" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-2" value="&lt;span style=&quot;font-size: 24px ; font-style: italic ; font-weight: 700&quot;&gt;ZohoService&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1469" y="940" width="240" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-3" value="&lt;h1 style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Le controller permets de redistribuer les appels à l&#39;API aux méthodes nécessaires. C&#39;est un peu comme une télécommande.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1199" y="304.5" width="420" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-4" value="&lt;h1 style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Le module va contenir la logique, il va faire tout le traitement dont on aura besoin. Tout ce qui prends du temps ou nécéssite de la reflexion se trouve ici. On pourrait imaginer cet étape comme un grand hangar de chaine de production avec des robots.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1199" y="595.37" width="420" height="190.25" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-5" value="&lt;span style=&quot;font-size: 24px ; font-style: italic ; font-weight: 700&quot;&gt;Utils&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1949" y="595.37" width="240" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-6" value="&lt;h1 style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Utils, c&#39;est des &lt;/span&gt;utilitaires&lt;span style=&quot;font-weight: 400&quot;&gt;, c&#39;est un bouquet de méthodes qui sont réutilisées plusieurs fois dans le code, et qui sont indépendantes des &quot;flux de donnée&quot; que sont les autres méthodes&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-2380" y="622.25" width="420" height="136.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-7" value="&lt;h1 style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Le service c&#39;est l&#39;étape de &quot;récupération&quot; des données, et uniquement de récupération. C&#39;est l&#39;équivalent des robots de la chaine de production : les méthodes contenues ne font que &lt;/span&gt;retourner &lt;span style=&quot;font-weight: 400&quot;&gt;des données aux méthodes qui les appellent.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1199" y="950.5" width="420" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3AaT0U5LROBGEmsXFWls-0" target="3AaT0U5LROBGEmsXFWls-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1319" y="902" as="sourcePoint" />
+            <mxPoint x="-1269" y="852" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1349.71" y="781" as="sourcePoint" />
+            <mxPoint x="-1349.71" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="3AaT0U5LROBGEmsXFWls-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1470.4300000000003" y="1022" as="sourcePoint" />
+            <mxPoint x="-1470.43" y="1181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3AaT0U5LROBGEmsXFWls-1" target="3AaT0U5LROBGEmsXFWls-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1469.0000000000002" y="702.88" as="sourcePoint" />
+            <mxPoint x="-1707.57" y="411.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3AaT0U5LROBGEmsXFWls-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3AaT0U5LROBGEmsXFWls-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1469" y="626.88" as="sourcePoint" />
+            <mxPoint x="-1709" y="622.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-10" value="&amp;nbsp;&lt;font style=&quot;font-size: 48px&quot;&gt;Company (objet)&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3055" y="1170" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-11" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Projects&lt;br&gt;&amp;nbsp;(liste d&#39;objets)&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3042.5" y="1520" width="325" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-12" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Orders&amp;nbsp;&lt;br&gt;(liste d&#39;objets)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2720" y="1860" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-13" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Invoices&amp;nbsp;&lt;br&gt;(liste d&#39;objets)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2720" y="2320" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-14" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Deliveries&amp;nbsp;&lt;br&gt;(liste d&#39;objets resources)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3501" y="1860" width="300" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-18" value="&lt;font style=&quot;font-size: 48px&quot;&gt;KeyWords (string)&lt;/font&gt;" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3055" y="820" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=48;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=22.666666666666668;endSize=11.133333333333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nAWJPG4-1q_OBBmetqR0-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3210" y="1060" as="sourcePoint" />
+            <mxPoint x="3205" y="1180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-20" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; font-size: 24px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;getCompanyByKeywords (company_name)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Prend en entrée un nom et retourne plusieurs entreprises correspondantes au mot clé. L&#39;objectif est de ne retourner qu&#39;une seule compagnie.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3240" y="1000" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=48;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=22.666666666666668;endSize=11.133333333333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3204.29" y="1319.9999999999998" as="sourcePoint" />
+            <mxPoint x="3204.29" y="1530" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-22" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; font-size: 24px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;getProjectsByCompany (company)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Prend en entrée un un objet company et retourne plusieurs projets correspondantes à notre company (via le compny_id).&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;Pour plus de lisibilité je retourne un objet &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;company_final (à renommer)&lt;/font&gt;&lt;/b&gt; remodelé avec un champs &quot;projects&quot; qui liste tous les projets de notre company (sous forme d&#39;objets)&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3250" y="1340" width="840" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=48;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=22.666666666666668;endSize=11.133333333333333;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nAWJPG4-1q_OBBmetqR0-11" target="nAWJPG4-1q_OBBmetqR0-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2899.29" y="1540" as="sourcePoint" />
+            <mxPoint x="2899.29" y="1750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2880" y="1680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-24" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;getOrdersByProject (&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;company_final&lt;/font&gt;&lt;/b&gt;)&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Prend en entrée un un objet company_final qu&#39;on vient de créer. Pour chaque projet de notre compagnies, on cherche les bons de commandes qui sont liés.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;On met tous ces bons de commandes dans une liste d&#39;objets orders, dans le champs &quot;orders_lies&quot; de projects.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Pour plus de lisibilité je retourne un objet company remodelé avec un champs &quot;projects&quot; qui liste tous les projets de notre company (sous forme d&#39;objets)&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2020" y="1540" width="840" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=48;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=22.666666666666668;endSize=11.133333333333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nAWJPG4-1q_OBBmetqR0-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2869.29" y="2010" as="sourcePoint" />
+            <mxPoint x="2869.29" y="2220" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-26" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;getInvoicesByOrder (&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;company_final&lt;/font&gt;&lt;/b&gt;)&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Prend en entrée un un objet company_final créé précédemment. Pour chaque bon de commande de notre compagnies, on cherche les factures qui sont liées.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;On met tous ces factures dans une liste d&#39;objets invoices, dans le champs &quot;invoices_lies&quot; de orders.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Pour plus de lisibilité je retourne un objet company remodelé avec un champs &quot;projects&quot; qui liste tous les projets de notre company (sous forme d&#39;objets)&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1990" y="2050" width="860" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-27" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Resources&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4214" y="2040" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-28" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Times-Reports&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4230" y="2440" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=48;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=22.666666666666668;endSize=11.133333333333333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nAWJPG4-1q_OBBmetqR0-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3660" y="1660" as="sourcePoint" />
+            <mxPoint x="3660" y="1870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3660" y="1680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-31" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;getDeliveriesByProject (&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;company_final&lt;/font&gt;&lt;/b&gt;)&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Prend en entrée un un objet company_final qu&#39;on vient de créer. Pour chaque projet de notre compagnies, on cherche les livraisons qui sont liées.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Pour chaque livraison, on peut trouver les resources_id des consultants ayant travaillés sur le projet. Nous allons récupérer cette liste d&#39;identifiants (sans doublons). Nous allons ensuite utiliser 2 fonctions internes pour compléter l&#39;objet resource avec des infos et les CRA correspondants au projet.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3700" y="1560" width="840" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=48;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=22.666666666666668;endSize=11.133333333333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nAWJPG4-1q_OBBmetqR0-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3798" y="1930" as="sourcePoint" />
+            <mxPoint x="4090" y="2205" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-36" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;getResourceByResourceId (&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;resource_id&lt;/b&gt;&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;A partir des deliveries, on récupère les resource_id qui vont permettrent de créer des objets resources. On rajoute les champs nom et prénom pour identifier notre consultant plus simplement.&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Pour l&#39;instant, nos resources ne sont pas encore présentes dans les projects.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4040" y="1780" width="840" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=48;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=22.666666666666668;endSize=11.133333333333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nAWJPG4-1q_OBBmetqR0-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3970.000000000001" y="2307.01" as="sourcePoint" />
+            <mxPoint x="4380" y="2460" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-38" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;getTimesReportsByResourceId (&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;resource_id&lt;/b&gt;&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;A partir des resources et surtout de leurs identifiants, nous pouvons chercher les compte-rendus d&#39;activité de nos consultants (un par mois).&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;A partir de là, on regarde mois par mois et jour par jour si notre consultant a travaillé sur le projet. Si oui on rajoute les jours entrés dans un champ nommé &quot;CRA&quot; avec le mois qui correspond en face. Au final on rajoute pour une resource un champ &quot;liste CRA&quot; comprenant des CRA (mois + nombre de jours travaillé pour ce mois). On récupère aussi le TJM a ce moment.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4410" y="2200" width="840" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=48;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=22.666666666666668;endSize=11.133333333333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.863;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nAWJPG4-1q_OBBmetqR0-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4389" y="2547" as="sourcePoint" />
+            <mxPoint x="3768.8999999999996" y="2781.7999999999993" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4260" y="2720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-40" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify ; font-size: 24px&quot;&gt;&lt;span&gt;On rajoute les informations concernant les CRA dans notre objet resources. On va pouvoir retourner nos objets resources dans une liste qui sera liée à un de nos projets.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4320" y="2640" width="840" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-41" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 72px&quot;&gt;Partie resources&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3965" y="2840" width="840" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-43" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;u&gt;Exemple de rendu au format json :&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;{&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &quot;company_name&quot;: &quot;@keywords&quot;,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &quot;company_id&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &quot;derniere_MAJ&quot;: [date],&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &quot;projects&quot;: [&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;project_id&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;project_name&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;prix_estime&quot;: [int],&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;orders_lies&quot;: [&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;order_id&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;order_name&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;order_ref&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;invoices_lies&quot;: [&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;invoice_id&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;invoice_ref&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;invoice_montant_HT&quot;: [int]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ],&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;resources_lies&quot;: [&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;resource_id&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;prenom&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;nom&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;nb_jours_facture&quot;: [int],&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;TJM&quot;: (int),&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;CRA&quot;: [&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;mois&quot;: &quot;aaaa-mm&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;nb_jour_proj&quot;: [int]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;mois&quot;: &quot;aaaa-mm&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;nb_jour_proj&quot;: [int]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#56517e;fillColor=#d0cee2;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1430" y="360" width="440" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=72;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-30" y="1380" width="930" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-45" value="&lt;font style=&quot;font-size: 72px&quot;&gt;Fonctionnement de la partie BoondManager&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FF3333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4140" y="930" width="930" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-47" value="&lt;font style=&quot;font-size: 48px&quot; color=&quot;#000000&quot;&gt;Nomenclature des fonctions&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=72;fontColor=#FF3333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="1410" width="620" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nAWJPG4-1q_OBBmetqR0-48" value="&lt;font style=&quot;font-size: 24px ; line-height: 1.4&quot;&gt;Un nom de fonction est décomposable en 4 sous-parties avec du Camel Case (les nouveaux mots ont une majuscule, on colle tout) :&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Le type de notre méthode en minuscules (get / post / update...)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Ce que va retourner notre fonction, ce que l&#39;on cherche à obtenir (Projects, Orders, Resources...). Attention à la distinction entre singulier et pluriel !&lt;/li&gt;&lt;li&gt;Un mot de liaison, souvent By&lt;/li&gt;&lt;li&gt;Ce qu&#39;on fait passer en entrée, ce qui sert d&#39;argument (CompanyId, Projects, ResourceId, ...)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Exemple : getProjectsByCompanyId&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Pour les routes de Zoho, il n&#39;y a pas d&#39;argument à passer en entrée, on a donc des Services ressemblants à &lt;b&gt;&lt;u&gt;getAccounts&lt;/u&gt;&lt;/b&gt;. Si l&#39;on veut rajouter un service avec un ou des arguments, il faut suivre la nomenclature de Boond.&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="9" y="1450" width="859" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="6e47pYrP9tXWvS3FiHHN-0" value="&lt;h1&gt;Si le serveur n&#39;est pas lancé, mettre les deux lignes suivantes dans le serveur BI-1 v2 :&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="65" y="-450" width="1255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6e47pYrP9tXWvS3FiHHN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=37;strokeColor=#FF0000;strokeWidth=9;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="-370" width="1160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6e47pYrP9tXWvS3FiHHN-1" value="&lt;h1 style=&quot;font-size: 37px&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 37px&quot;&gt;$ cd S:\00_Production\INTERNE_BI_Conso\back&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 37px&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 37px&quot;&gt;$ p2m start /dist/main.js&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;Pour tester si c&#39;est bien lancé : localhost:3000/zoho/get/accounts (et toutes les routes ci-dessous à tester)&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="65" y="-360" width="1255" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6e47pYrP9tXWvS3FiHHN-3" value="&lt;font style=&quot;font-size: 200px&quot;&gt;⚠️&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-265" y="-400" width="265" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kQizsI3hSKFdPFuHRwPH-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Attention, le dossier INTERNE_BI_Conso est sur le bureau et non dans le stockage !&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1230" y="-350" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kQizsI3hSKFdPFuHRwPH-1" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;ADD : lorsqu&#39;on a rajouté quelque chose.&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Exemple : ADD BoondService getInvoicesByOrders&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;REMOVE : lorsqu&#39;on supprime quelque chose, avec une justification c&#39;est encore mieux !&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Exemple : REMOVE BoondModule getCraByTimesReports&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;UPDATE : pour les modifications / mises à jour&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Exemple : UPDATE BonndService getCompanyByKeywords&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;HOTFIX : réparation d&#39;un bug &quot;à chaud&quot;, c&#39;est souvent la première correction que l&#39;on apporte, pour éviter de tout faire planter&lt;/li&gt;&lt;li&gt;FIX : réparation correcte d&#39;un problème, il n&#39;y a pas besoin d&#39;y retoucher plus tard.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Exemple : FIX problème génération token jwt&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="53.5" y="2310" width="770" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="kQizsI3hSKFdPFuHRwPH-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 48px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Nomenclature des Commit Git&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="71" y="2230" width="740" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

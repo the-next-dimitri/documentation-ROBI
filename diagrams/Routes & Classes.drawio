@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T15:35:27.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="tq7fupZHRm91UcgWqMPs" version="17.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-29T07:03:25.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="KmL4p34NK9Wx4j8-XU4q" version="17.2.4" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="6017" dy="3904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4979" dy="3357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -497,6 +497,20 @@
         </mxCell>
         <mxCell id="OmFRwHm5OTwn2fxQS7_F-26" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 72px&quot;&gt;Partie resources&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;" vertex="1" parent="1">
           <mxGeometry x="3965" y="2840" width="840" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J7UWsVNTcDXhZxZrUKZo" name="Nomenclature Commit git">
+    <mxGraphModel dx="2307" dy="-1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dgzot1xaZKft8MUwOyXF-1" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;ADD : lorsqu&#39;on a rajouté quelque chose.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;font size=&quot;3&quot;&gt;Exemple : ADD BoondService getInvoicesByOrders&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;REMOVE : lorsqu&#39;on supprime quelque chose, avec une justification c&#39;est encore mieux !&lt;/font&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Exemple : REMOVE points-virgules getUsers&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;UPDATE : pour les modifications / mises à jour&lt;/font&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Exemple : UPDATE BonndService getCompanyByKeywords&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;HOTFIX : réparation d&#39;un bug &quot;à chaud&quot;, c&#39;est souvent la première correction que l&#39;on apporte, pour éviter de tout faire planter&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;FIX : réparation correcte d&#39;un problème, il n&#39;y a pas besoin d&#39;y retoucher plus tard.&lt;/font&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Exemple : FIX problème génération token jwt&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="46.5" y="2530" width="651" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Dgzot1xaZKft8MUwOyXF-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Nomenclature des Commit Git&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2470" width="253.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T15:28:39.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="jc_bF9ocaWNXV8v4AjW5" version="17.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-20T15:29:05.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="u-SL6l9d_SShjXqZXz_x" version="17.4.5" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Nomenclature fonctions">
     <mxGraphModel dx="1038" dy="-622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,39 +11,75 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qs391Q0msazxYX6CG7N_" name="nomenclature_routes">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XHFH6p_mn79H-g3RLbeW-0" />
         <mxCell id="XHFH6p_mn79H-g3RLbeW-1" parent="XHFH6p_mn79H-g3RLbeW-0" />
         <mxCell id="vvz5Y31tKRMW5Cqr2UtY-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px ; line-height: 1&quot;&gt;/zoho/get/accounts&lt;/font&gt; &lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?type= [json] / csv)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne les comptes dans zoho, au format JSON par défaut, ou en CSV si précisé dans le paramètre &quot;type&quot; de la requète.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="80" y="130" width="320" height="80" as="geometry" />
+          <mxGeometry x="59" y="131" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vvz5Y31tKRMW5Cqr2UtY-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/zoho/get/contacts&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?type= [json] / csv)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne les contacts dans zoho, au format JSON par défaut, ou en CSV si précisé dans le paramètre &quot;type&quot; de la requète.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="80" y="249" width="310" height="80" as="geometry" />
+          <mxGeometry x="59" y="249" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vvz5Y31tKRMW5Cqr2UtY-2" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="31" y="140" width="49" height="26" as="geometry" />
+          <mxGeometry x="10" y="140" width="49" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vvz5Y31tKRMW5Cqr2UtY-3" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="26" y="258" width="60" height="30" as="geometry" />
+          <mxGeometry x="5" y="258" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvz5Y31tKRMW5Cqr2UtY-4" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="41" y="383" width="30" height="20" as="geometry" />
+          <mxGeometry x="20" y="383" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vvz5Y31tKRMW5Cqr2UtY-5" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="444" y="145" width="30" height="16" as="geometry" />
+          <mxGeometry x="399" y="145" width="30" height="16" as="geometry" />
         </mxCell>
         <mxCell id="GxIMBx-urVELu6Ze8GYm-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/zoho/get/potentials&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?type= [json] / csv)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne les potentials dans zoho, au format JSON par défaut, ou en CSV si précisé dans le paramètre &quot;type&quot; de la requète.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="80" y="370" width="320" height="80" as="geometry" />
+          <mxGeometry x="65" y="369" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GeMKGj4lL7Ov5kynLauq-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/boond/get/projects&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?company=[&amp;lt;string&amp;gt;]&amp;nbsp; / *)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne une liste (Tableau JSON) de projets de l&#39;entreprise précisée. Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Dans le cas de company=* dans les params, on renvoie tout.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Exemple de réponse ci-contre.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="478" y="131" width="310" height="150" as="geometry" />
+        <mxCell id="GeMKGj4lL7Ov5kynLauq-0" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/boond/get/projects/&amp;lt;company_name&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?time-delta=[&amp;lt;int&amp;gt;]/3)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne une liste (Tableau JSON) de projets de l&#39;entreprise précisée. Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Dans le cas de time-delta = -1 dans les params, on renvoie tout l&#39;historique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
+          <mxGeometry x="429" y="249" width="390" height="119" as="geometry" />
         </mxCell>
         <mxCell id="GeMKGj4lL7Ov5kynLauq-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Partie Zoho&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
-          <mxGeometry x="120" y="90" width="180" height="30" as="geometry" />
+          <mxGeometry x="99" y="90" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeMKGj4lL7Ov5kynLauq-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Partie Boond&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="XHFH6p_mn79H-g3RLbeW-1" vertex="1">
           <mxGeometry x="510" y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-0" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/boond/get/orders/&amp;lt;company_name&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?time-delta=[&amp;lt;int&amp;gt;]/3)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne une liste (Tableau JSON) de bons de commande de l&#39;entreprise précisée. Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Dans le cas de time-delta = -1 dans les params, on renvoie tout l&#39;historique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="429" y="369" width="390" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-1" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/boond/get/invoices/&amp;lt;company_name&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?time-delta=[&amp;lt;int&amp;gt;]/3)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne une liste (Tableau JSON) de factures de l&#39;entreprise précisée. Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Dans le cas de time-delta = -1 dans les params, on renvoie tout l&#39;historique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="429" y="510" width="390" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-2" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/boond/get/company/&amp;lt;company_name&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne une liste (Tableau JSON) de projets de l&#39;entreprise précisée. Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;La seule route où le paramètre time-delta ne sert pas, il ne faut pas le mettre.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="430" y="130" width="390" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-3" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/boond/get/resources-invoices/&amp;lt;company_name&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?time-delta=[&amp;lt;int&amp;gt;]/3)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne une liste (Tableau JSON) de consultants ayant travaillés pour un projet de l&#39;entreprise précisée. On récupère ici les tarifs prévus pour les projets de nos resources. Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Dans le cas de time-delta = -1 dans les params, on renvoie tout l&#39;historique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="360" y="640" width="460" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-4" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/boond/get/resources-infos/&amp;lt;company_name&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?time-delta=[&amp;lt;int&amp;gt;]/3)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne une liste (Tableau JSON) de consultants ayant travaillés pour un projet de l&#39;entreprise précisée. On récupère ici des infos permettant l&#39;identification du consultant (nom, prénom, manager). Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Dans le cas de time-delta = -1 dans les params, on renvoie tout l&#39;historique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="359" y="770" width="460" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-5" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/boond/get/resources-cra/&amp;lt;company_name&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;(?time-delta=[&amp;lt;int&amp;gt;]/3)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Retourne une liste (Tableau JSON) de consultants ayant travaillés pour un projet de l&#39;entreprise précisée. On récupère ici des temps saisis pour un projet sur un mois donné. Si le paramètre &quot;company-name&quot; n&#39;est pas renseigné, l&#39;API renvoie une erreur.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Dans le cas de time-delta = -1 dans les params, on renvoie tout l&#39;historique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="359" y="920" width="460" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-6" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="327" y="935" width="30" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-7" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="329" y="650" width="30" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-8" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="327" y="780" width="30" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-9" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="399" y="524" width="30" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-10" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="400" y="387" width="30" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAo9gmtRXjQtGjW_1BV-11" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;GET&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="XHFH6p_mn79H-g3RLbeW-1">
+          <mxGeometry x="399" y="265" width="30" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
